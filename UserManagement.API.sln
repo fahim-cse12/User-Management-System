@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement.API", "UserManagement.API\UserManagement.API.csproj", "{DDD0EABD-AFB8-4831-BFB3-3F37D00A0619}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagement.API", "UserManagement.API\UserManagement.API.csproj", "{DDD0EABD-AFB8-4831-BFB3-3F37D00A0619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement.Service", "UserManagement.Service\UserManagement.Service.csproj", "{19E11216-EB37-4FC1-AB03-D564D128D7DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DDD0EABD-AFB8-4831-BFB3-3F37D00A0619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDD0EABD-AFB8-4831-BFB3-3F37D00A0619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDD0EABD-AFB8-4831-BFB3-3F37D00A0619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E11216-EB37-4FC1-AB03-D564D128D7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E11216-EB37-4FC1-AB03-D564D128D7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E11216-EB37-4FC1-AB03-D564D128D7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E11216-EB37-4FC1-AB03-D564D128D7DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
